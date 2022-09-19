@@ -1,3 +1,4 @@
+
 function createBill(){
     var index=0;
     var items = ["null", "null", "null","null"];
